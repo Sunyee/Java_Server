@@ -1,1 +1,3 @@
-# Server_SpringBoot_Mybatis
+# java server
+随性笔记
+SpringBoot_Mybatis
